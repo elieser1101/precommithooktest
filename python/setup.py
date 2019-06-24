@@ -3,7 +3,7 @@
 from setuptools import setup
 
 setup(name=' paquete',
-      version='1.0.99',
+      version='1.0.100',
       packages=['common'],
       data_files=[('common/visualization/templates', ['testblahblabpakcage.html',
                                                       'testblahblabpakcageion.html',
