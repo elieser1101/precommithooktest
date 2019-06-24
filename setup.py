@@ -3,7 +3,7 @@
 from setuptools import setup
 
 setup(name='ktt-common',
-      version='1.0.98',
+      version='1.0.99',
       packages=['common', 'common.apps', 'common.data', 'common.features', 'common.linguistics', 'common.visualization', 'common.models'],
       data_files=[('common/visualization/templates', ['common/visualization/templates/concordance.html',
                                                       'common/visualization/templates/disambiguation.html',
