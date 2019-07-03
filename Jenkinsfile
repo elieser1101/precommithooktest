@@ -1,5 +1,5 @@
 #!groovy
 node {
-    sh "pwd"
+    sh "pwd & ls"
     sh "env"
 }
