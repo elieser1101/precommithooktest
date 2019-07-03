@@ -4,4 +4,5 @@ node {
     sh "pwd & ls"
     sh "env && echo prueba2"
     sh "echo ${payload}"
+    sh "echo $payload"
 }
