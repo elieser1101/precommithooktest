@@ -2,7 +2,7 @@ import sbt.Keys._
 import sbt.Process
 import sbtassembly.AssemblyPlugin.autoImport.ShadeRule
 
-val mammutKtTv          = "0.3.151"
+val mammutKtTv          = "0.3.152"
 
 
 lazy val commonSettings = Seq(
